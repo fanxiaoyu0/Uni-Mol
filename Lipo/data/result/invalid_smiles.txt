@@ -1,0 +1,1 @@
+EmbedMolecule failed -1 CCCCCCCCCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]3[C@@H](C)OC(=O)[C@H](CC(=O)c4ccccc4N)NC(=O)[C@@H](NC(=O)[C@@H](CO)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCN)NC(=O)CNC3=O)[C@H](C)CC(=O)O
